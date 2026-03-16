@@ -229,5 +229,5 @@ Tools Used
 
 ## Dashboard
 <img width="1451" height="807" alt="variance analysis" src="https://github.com/user-attachments/assets/7ae23b33-c648-46f8-92d5-90d04523f9ff" />
-<img width="1450" height="811" alt="sales Dashboard 2026" src="https://github.com/user-attachments/assets/e5d52b0f-34ef-4050-a048-d28e0abb524d" />
+<img width="1465" height="808" alt="budget analysis" src="https://github.com/user-attachments/assets/5ced7463-0bcd-4442-af24-2032966dfa9a" />
 
