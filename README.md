@@ -226,3 +226,8 @@ Tools Used
 • Power Query – Data Cleaning & Transformation
 • DAX – Measures and Time Intelligence
 • Excel – Data Source
+
+## Dashboard
+<img width="1451" height="807" alt="variance analysis" src="https://github.com/user-attachments/assets/7ae23b33-c648-46f8-92d5-90d04523f9ff" />
+<img width="1450" height="811" alt="sales Dashboard 2026" src="https://github.com/user-attachments/assets/e5d52b0f-34ef-4050-a048-d28e0abb524d" />
+
