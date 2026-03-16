@@ -107,6 +107,6 @@ Finally, the transformations were applied using Close & Apply.
 ## Calendar Table Creation (DAX)
 
 To support time-based analysis, a Calendar table was created using DAX.
-'''DAX
+```DAX
 dCalendar = CALENDARAUTO()
-'''
+```
